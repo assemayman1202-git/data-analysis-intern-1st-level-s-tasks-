@@ -1,4 +1,8 @@
-# data-analysis-intern-1st-level-s-tasks-
+# data-analysis-intern-1st-level-s-tasks
+
+Data on notebook:
+https://colab.research.google.com/drive/19qUxi7QnegKayCm7KrWZEYWqwRV_qRwK?usp=sharing
+
 
 # Data Analysis Internship - Level 1 Tasks
 This repository contains my work for the data analysis internship tasks, 
